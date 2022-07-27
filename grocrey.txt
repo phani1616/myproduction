@@ -7,3 +7,5 @@ chips
 chocolates
 ice creams
 kurkure
+pepsi
+bingo
